@@ -1,0 +1,63 @@
+{
+  "name": "veeva",
+  "version": "0.0.1",
+  "productName": "Discovery Tool",
+  "author": "lawrenceattoh",
+  "private": true,
+  "scripts": {
+    "start": "quasar dev --mode ssr",
+    "build-quasar": "quasar build -m ssr",
+    "lint": "eslint --ext .js,.vue ./",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@mdi/font": "^7.0.96",
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-html-parser": "^3.2.0",
+    "puppeteer": "^9.1.1",
+    "quasar": "^1.0.0",
+    "request": "^2.88.2",
+    "tiktok-scraper": "^1.4.31",
+    "valid-url": "^1.0.9",
+    "vue": "^2.6.12",
+    "vue-i18n": "^8.25.0",
+    "vue-round-filter": "^1.1.2",
+    "vue-router": "^3.5.1",
+    "vue-scrollto": "^2.20.0",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^7.21.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-vue": "^7.7.0",
+    "eslint-webpack-plugin": "^2.4.0",
+    "postcss": "^8.2.13",
+    "postcss-100vh-fix": "^1.0.2",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

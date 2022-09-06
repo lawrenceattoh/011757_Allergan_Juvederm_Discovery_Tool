@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="home" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121 121">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #512a4e;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fbaf73;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-1" x=".05" y=".04" width="120" height="120"/>
+      <g>
+        <polygon class="cls-3" points="60.85 25.72 96.28 56.22 89.83 56.22 89.83 89.62 70.2 89.62 70.2 66.39 51.5 66.39 51.5 89.62 31.87 89.62 31.87 56.22 25.42 56.22 60.85 25.72"/>
+        <polyline class="cls-2" points="120 0 120 120 0 120"/>
+      </g>
+    </g>
+  </g>
+</svg>

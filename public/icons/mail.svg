@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121.03 121">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8b2d8b;
+      }
+
+      .cls-2 {
+        fill: #512a4e;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #fbaf73;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-2" x="1.03" y=".01" width="120" height="120"/>
+    <g>
+      <polyline class="cls-3" points="121 120 1 120 1 0"/>
+      <g id="Group_224" data-name="Group 224">
+        <rect id="Rectangle_541" data-name="Rectangle 541" class="cls-4" x="27.03" y="38.27" width="67.95" height="44.61"/>
+        <path id="Path_230" data-name="Path 230" class="cls-4" d="M27.03,38.27l33.97,28.19,33.97-28.19"/>
+        <line id="Line_62" data-name="Line 62" class="cls-4" x1="53.17" y1="59.96" x2="27.03" y2="82.88"/>
+        <line id="Line_63" data-name="Line 63" class="cls-4" x1="94.97" y1="82.88" x2="68.83" y2="59.96"/>
+      </g>
+      <circle id="Ellipse_212" data-name="Ellipse 212" class="cls-1" cx="94.97" cy="38.27" r="15.91"/>
+    </g>
+  </g>
+</svg>
